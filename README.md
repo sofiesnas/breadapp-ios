@@ -1,10 +1,10 @@
 # BreadApp iOS: Intuitive & Mindful Eating
 
-BreadApp is designed to foster intuitive and mindful eating practices. With a user-friendly interface, this iOS app helps users reconnect with their natural hunger cues and make peace with food.
+🍞BreadApp is designed to foster intuitive and mindful eating practices. With a user-friendly interface, this iOS app helps users reconnect with their natural hunger cues and make peace with food.
 
 [![BreadApp iOS Video](http://img.youtube.com/vi/o2RNrZweZ-E/0.jpg)](https://youtu.be/o2RNrZweZ-E "BreadApp iOS: Intuitive & Mindful Eating")
 
-Click on the image above to watch a brief overview of BreadApp and see how it can transform your eating habits.
+⬆️Click to watch and learn more.
 
 ## Features
 
